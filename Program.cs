@@ -14,4 +14,3 @@
             }
              Console.WriteLine("Формирую массив из строк:");
             Console.WriteLine(string.Join(Environment.NewLine, resultArray, 0, realSize));
-            Console.ReadKey(true);
